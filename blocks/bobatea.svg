@@ -20,7 +20,7 @@
      inkscape:deskcolor="#505050"
      inkscape:zoom="6.2976698"
      inkscape:cx="25.485617"
-     inkscape:cy="-2.6200167"
+     inkscape:cy="-2.7788056"
      inkscape:window-width="1918"
      inkscape:window-height="1053"
      inkscape:window-x="0"
@@ -44,7 +44,7 @@
      ry="4" />
   <path
      id="rect2"
-     style="fill:#ebcea2;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.7"
+     style="fill:#edcea1;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.7;fill-opacity:1"
      d="m 4.5,6.5 h 39 c 2.216,0 4,1.784 4,4 v 33 c 0,2.216 -1.784,4 -4,4 h -39 c -2.216,0 -4,-1.784 -4,-4 v -33 c 0,-2.216 1.784,-4 4,-4 z"
      sodipodi:nodetypes="sssssssss" />
   <circle
